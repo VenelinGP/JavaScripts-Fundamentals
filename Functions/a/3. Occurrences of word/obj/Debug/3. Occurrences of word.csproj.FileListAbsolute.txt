@@ -1,0 +1,6 @@
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\3. Occurrences of word\bin\_3.Occurrences_of_word.dll.config
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\3. Occurrences of word\bin\_3.Occurrences_of_word.dll
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\3. Occurrences of word\bin\_3.Occurrences_of_word.pdb
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\3. Occurrences of word\obj\Debug\3. Occurrences of word.csprojResolveAssemblyReference.cache
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\3. Occurrences of word\obj\Debug\_3.Occurrences_of_word.dll
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\3. Occurrences of word\obj\Debug\_3.Occurrences_of_word.pdb

@@ -1,0 +1,38 @@
+body {
+    color: #333;
+    font-size: 20px;
+}
+p{
+    font-size: 14px;
+}
+button{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+}
+button:focus{
+    outline: none;
+}
+div{
+    padding-left: 10px;
+}
+#someText textarea{
+    position: relative;
+    height: 150px;
+    width: 350px;
+}
+#searchedWord input{
+    margin: 10px 15px;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+#sensitveBox{
+    position: absolute;
+    top: 180px;
+    left: 380px;
+    font-family: Arial;
+    font-size: 16px;
+}

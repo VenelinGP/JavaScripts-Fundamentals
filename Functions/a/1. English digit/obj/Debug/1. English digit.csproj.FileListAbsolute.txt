@@ -1,0 +1,6 @@
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\1. English digit\bin\_1.English_digit.dll.config
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\1. English digit\bin\_1.English_digit.dll
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\1. English digit\bin\_1.English_digit.pdb
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\1. English digit\obj\Debug\1. English digit.csprojResolveAssemblyReference.cache
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\1. English digit\obj\Debug\_1.English_digit.dll
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\1. English digit\obj\Debug\_1.English_digit.pdb

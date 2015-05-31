@@ -1,0 +1,6 @@
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\2. Reverse number\bin\_2.Reverse_number.dll.config
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\2. Reverse number\bin\_2.Reverse_number.dll
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\2. Reverse number\bin\_2.Reverse_number.pdb
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\2. Reverse number\obj\Debug\2. Reverse number.csprojResolveAssemblyReference.cache
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\2. Reverse number\obj\Debug\_2.Reverse_number.dll
+C:\Users\Venelin\Documents\JavaScript\Fundamentals\Functions\2. Reverse number\obj\Debug\_2.Reverse_number.pdb
